@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 yuriportfolio/taxonomy is built on the following main stack:
+
 - [Stripe](https://stripe.com) – Payment Services
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
@@ -17,11 +18,13 @@ yuriportfolio/taxonomy is built on the following main stack:
 - [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 yuriportfolio/taxonomy is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
@@ -37,14 +40,15 @@ yuriportfolio/taxonomy is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/taxonomy](https://github.com/yuriportfolio/taxonomy)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|36<br/>Tools used|11/09/23 <br/>Report generated|
+|37<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -223,9 +227,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (18)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (19)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (18)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -236,6 +240,7 @@ Full tech stack [here](/techstack.md)
 |[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.0.6|03/03/23|shadcn |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|03/03/23|shadcn |MIT|N/A|
 |[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.31.11|03/03/23|shadcn |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.2|11/22/22|shadcn |MIT|N/A|
 |[nodemailer](https://www.npmjs.com/nodemailer)|v6.8.0|11/21/22|shadcn |MIT|N/A|
 |[postcss](https://www.npmjs.com/postcss)|v8.4.14|11/08/22|Matt |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
 |[pretty-quick](https://www.npmjs.com/pretty-quick)|v3.1.3|03/03/23|shadcn |MIT|N/A|
@@ -244,11 +249,11 @@ Full tech stack [here](/techstack.md)
 |[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|03/03/23|shadcn |MIT|N/A|
 |[react-textarea-autosize](https://www.npmjs.com/react-textarea-autosize)|v8.3.4|03/03/23|shadcn |MIT|N/A|
 |[remark](https://www.npmjs.com/remark)|v14.0.2|11/17/22|shadcn |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.31.1|10/26/22|shadcn |Apache-2.0|N/A|
+|[sharp](https://www.npmjs.com/sharp)|v0.31.1|10/26/22|shadcn |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.1.7|03/03/23|shadcn |MIT|N/A|
 |[unist-util-visit](https://www.npmjs.com/unist-util-visit)|v4.1.1|11/17/22|shadcn |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
