@@ -2,7 +2,7 @@ repo_name: yuriportfolio/taxonomy
 report_id: f033d0ebdf1eabc2d94409fc6442a54c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:08:01+00:00'
+timestamp: '2024-02-29T18:22:12+00:00'
 requested_by: shadcn
 provider: github
 branch: main
@@ -65,7 +65,7 @@ tools:
   last_updated_by: shadcn
   last_updated_on: 2022-10-26 13:18:06.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.2.3
   open_source: true
@@ -142,7 +142,7 @@ tools:
   detection_source_url: https://github.com/yuriportfolio/taxonomy
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
@@ -348,6 +348,13 @@ tools:
   detection_source: package.json
   last_updated_by: shadcn
   last_updated_on: 2022-11-21 08:40:10.000000000 Z
+  vulnerabilities:
+  - name: nodemailer ReDoS when trying to send a specially crafted email
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-9h6g-pr28-7cqp
+    detected_date: Feb 1
+    severity: moderate
+    first_patched: 6.9.9
 - name: postcss
   description: Tool for transforming styles with JS plugins
   package_url: https://www.npmjs.com/postcss
